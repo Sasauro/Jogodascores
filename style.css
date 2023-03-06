@@ -1,0 +1,76 @@
+* {
+  text-align: center;
+  font-size: 40px;
+  list-style-type: none;
+}
+.gigante {
+  font-size: 80px;
+}
+
+#black {
+  color: black;
+  text-decoration: none;
+}
+#blue {
+  color: blue;
+  text-decoration: none;
+}
+#purple {
+  color: purple;
+  text-decoration: none;
+}
+#green {
+  color: green;
+  text-decoration: none;
+}
+#red {
+  color: red;
+  text-decoration: none;
+}
+#yellow {
+  color: yellow;
+  text-decoration: none;
+}
+#violet {
+  color: violet;
+  text-decoration: none;
+}
+#white {
+  color: white;
+  text-decoration: none;
+}
+#gray {
+  color: gray;
+  text-decoration: none;
+}
+#cyan {
+  color: cyan;
+  text-decoration: none;
+}
+#aqua {
+  color: aqua;
+  text-decoration: none;
+}
+#aquamarine {
+  color: aquamarine;
+  text-decoration: none;
+}
+#greenyellow {
+  color: greenyellow;
+  text-decoration: none;
+}
+#lightgreen {
+  color: rgb(124, 255, 124);
+  text-decoration: none;
+}
+#naotem {
+  color: black;
+}
+
+body {
+  background-image: url(imagemdefundo.jpg);
+  background-size: cover;
+}
+#semimagem {
+  background-image: none;
+}
